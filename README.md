@@ -10,3 +10,18 @@
   <li>Roman to Integer</li>
 </ul>
 
+<h2>Array</h2>
+<ul>
+  <li>Remove Duplicates from Sorted Array</li>
+  <li>Best Time to Buy and Sell Stock II</li>
+  <li>Rotate Array</li>
+  <li>Contains Duplicate</li>
+  <li>Single Number</li>
+  <li>Intersection of Two Arrays II</li>
+  <li>Plus One</li>
+  <li>Move Zeroes</li>
+  <li>Two Sum</li>
+  <li>Valid Sudoku</li>
+  <li>Rotate Image</li>
+</ul>
+
